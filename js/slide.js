@@ -9,7 +9,7 @@ export default class Slide {
   }
 
   onMove(event) {
-
+    
   }
 
   onEnd(event) {
